@@ -654,7 +654,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: #351b12 !important;
 }
 
 .container {
@@ -783,7 +783,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #864D37;
   color: #ffffff !important;
 }
 
@@ -826,7 +826,7 @@ h4 {
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.bmp");
+  background-image: url("img/image-de-presentation.jpg");
 }
 
 /* ---------------------------------------------------------------
@@ -849,6 +849,8 @@ Mes rajouts
   font-weight: 400;
 }
 
+.text-
+
 .font-presentation-portfolio {
   font-weight: 700;
   font-size: 22px;
@@ -856,7 +858,7 @@ Mes rajouts
 
 .black-background {
   text-align: center;
-  width: 50%;
+  /* width: 50%; */
 }
 
 .couleur-accessibilite{
