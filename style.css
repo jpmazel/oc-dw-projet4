@@ -876,6 +876,10 @@ Mes rajouts
   font-weight: 700;
 }
 
+.contrast-fort{
+  color: #1A1A1A !important;
+}
+
 .footer {
   width: 100%;
   background-color: #f3976c;
