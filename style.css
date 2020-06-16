@@ -275,13 +275,14 @@ a:hover {
 
 .row-no-gutters {
   margin-right: 0;
-  margin-left: 0;
+  margin-left: 0;  
 }
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
   padding-right: 0;
   padding-left: 0;
+  margin-top: 10px;
 }
 
 #bloc-1-hero h1 {
@@ -681,7 +682,7 @@ a {
 
 /* modification de la font-size 11px à la font-size 14px ---------------------*/
 p {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -711,6 +712,7 @@ p {
 h2 {
   font-size: 22px;
   line-height: 1.4em;
+  text-align: center;
 }
 
 h3 {
@@ -779,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fdd2bd !important;
 }
 
 .btn-atomic-tangerine {
@@ -849,10 +851,9 @@ Mes rajouts
   font-weight: 400;
 }
 
-.text-
 
 .font-presentation-portfolio {
-  font-weight: 700;
+  font-weight: 700 !important;
   font-size: 22px;
 }
 
@@ -863,6 +864,10 @@ Mes rajouts
 
 .couleur-accessibilite{
     color: black;
+}
+
+.gras{
+  font-weight: 700;
 }
 
 .footer {
