@@ -870,6 +870,12 @@ Mes rajouts
   font-weight: 700;
 }
 
+.contrast-text-reseaux-sociaux{
+  color: #1A1A1A;
+  font-size: 18px;
+  font-weight: 700;
+}
+
 .footer {
   width: 100%;
   background-color: #f3976c;
