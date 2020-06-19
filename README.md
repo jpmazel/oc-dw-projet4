@@ -1,4 +1,4 @@
-![logo la chouette agence](https://jpmazel.github.io/oc-dw-projet4/index.html)
+![logo la chouette agence](https://jpmazel.github.io/oc-dw-projet4/img/la-chouette-agence.png)
 
 Début formation le 01/04/2020 de [développeur web](https://openclassrooms.com/fr/paths/185-developpeur-web) OpenClassrooms
 # OpenClassrooms-Développeur Web-Projet4
